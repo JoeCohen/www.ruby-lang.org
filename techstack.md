@@ -3,11 +3,11 @@
 ## Tech Stack
 JoeCohen/www.ruby-lang.org is built on the following main stack:
 
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Jekyll](http://jekyllrb.com/) – Static Site Generators
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Jekyll](http://jekyllrb.com/) – Static Site Generators
 
 Full tech stack [here](/techstack.md)
 
@@ -17,11 +17,11 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 JoeCohen/www.ruby-lang.org is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg' alt='Jekyll'/> [Jekyll](http://jekyllrb.com/) – Static Site Generators
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg' alt='Jekyll'/> [Jekyll](http://jekyllrb.com/) – Static Site Generators
 
 Full tech stack [here](/techstack.md)
 
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [JoeCohen/www.ruby-lang.org](https://github.com/JoeCohen/www.ruby-lang.org)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|13<br/>Tools used|01/05/24 <br/>Report generated|
+|16<br/>Tools used|03/21/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -116,16 +116,19 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (5)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (8)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (5)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (8)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[minitest](https://rubygems.org/minitest)|v5.14.4|11/07/20|Marcus Stollsteimer |MIT|N/A|
 |[rack-protection](https://rubygems.org/rack-protection)|v2.1.0|11/07/20|Marcus Stollsteimer |MIT|N/A|
+|[rack-rewrite](https://rubygems.org/rack-rewrite)|v1.5.1|11/07/20|Marcus Stollsteimer |MIT|N/A|
+|[rack-ssl](https://rubygems.org/rack-ssl)|v1.4.1|11/07/20|Marcus Stollsteimer |MIT|N/A|
 |[rake](https://rubygems.org/rake)|v13.0.6|11/07/20|Marcus Stollsteimer |MIT|N/A|
 |[rouge](https://rubygems.org/rouge)|v3.26.1|12/21/20|Marcus Stollsteimer |MIT,BSD-2-Clause|N/A|
+|[spidr](https://rubygems.org/spidr)|v0.6.1|11/07/20|Marcus Stollsteimer |MIT|N/A|
 |[unicorn](https://rubygems.org/unicorn)|v6.0.0|11/07/20|Marcus Stollsteimer |GPL-2.0+,Ruby|N/A|
 
 <br/>
