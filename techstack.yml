@@ -1,12 +1,12 @@
 repo_name: JoeCohen/www.ruby-lang.org
-report_id: db240d0daaab5750105e850c6942c930
+report_id: 44e7d7ebdadc8698c1f54780710dbe50
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:39:49+00:00'
+timestamp: '2024-03-21T20:58:34+00:00'
 requested_by: mame
 provider: github
 branch: master
-detected_tools_count: 13
+detected_tools_count: 16
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -131,6 +131,34 @@ tools:
   detection_source: Gemfile
   last_updated_by: Marcus Stollsteimer
   last_updated_on: 2020-11-07 19:38:58.000000000 Z
+- name: rack-rewrite
+  description: A rack middleware for enforcing rewrite rules
+  package_url: https://rubygems.org/rack-rewrite
+  version: 1.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/JoeCohen/www.ruby-lang.org/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Marcus Stollsteimer
+  last_updated_on: 2020-11-07 19:38:58.000000000 Z
+- name: rack-ssl
+  description: Rack middleware to force SSL/TLS
+  package_url: https://rubygems.org/rack-ssl
+  version: 1.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/JoeCohen/www.ruby-lang.org/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Marcus Stollsteimer
+  last_updated_on: 2020-11-07 19:38:58.000000000 Z
 - name: rake
   description: Rake is a Make-like program implemented in Ruby
   package_url: https://rubygems.org/rake
@@ -159,6 +187,21 @@ tools:
   detection_source: Gemfile
   last_updated_by: Marcus Stollsteimer
   last_updated_on: 2020-12-21 21:31:14.000000000 Z
+- name: spidr
+  description: Spidr is a versatile Ruby web spidering library that can spider a site,
+    multiple domains, certain links or infinitely
+  package_url: https://rubygems.org/spidr
+  version: 0.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/JoeCohen/www.ruby-lang.org/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Marcus Stollsteimer
+  last_updated_on: 2020-11-07 19:38:58.000000000 Z
 - name: unicorn
   description: Unicorn is an HTTP server for Rack applications designed to only serve
     fast clients on low-latency
